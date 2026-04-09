@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+#Specific directory or file
+/src/*
+zadania.txt
