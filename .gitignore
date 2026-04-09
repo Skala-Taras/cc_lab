@@ -41,5 +41,6 @@
 *.dwo
 
 #Specific directory or file
-/src/*
+/kcppBasic/*
+/kcppKviCar/*
 zadania.txt
